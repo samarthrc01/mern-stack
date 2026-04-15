@@ -39,7 +39,7 @@ The project provides a simple authentication system with login, registration, an
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yogeshpatil4138-ship-it/mern-stack-project.git
+git clone https://github.com/samarthrc01/mern-stack.git
 ```
 
 ---
@@ -129,8 +129,7 @@ Frontend runs on:
 ---
 
 ## GitHub Repository
-
-https://github.com/yogeshpatil4138-ship-it/mern-stack-project
+https://github.com/samarthrc01/mern-stack
 
 ---
 
